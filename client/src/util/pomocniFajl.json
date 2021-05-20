@@ -1,0 +1,314 @@
+[
+    {
+        "id":"zemljaPoreklo",
+        "name":"Zemlja porekla"
+    },
+    {
+        "id":"proizvodjac",
+        "name":"Proizvođač"
+    },
+    {
+        "id":"model",
+        "name":"Model"
+    },
+    {
+        "id":"vrstaRobe",
+        "name":"Vrsta robe"
+    },
+    {
+        "id":"podnozje",
+        "name":"Podnožje"
+    },
+    {
+        "id":"tipProcesora",
+        "name":"Tip procesora"
+    },
+    {
+        "id":"brojJezgara",
+        "name":"Broj jezgara"
+    },
+    {
+        "id":"niti",
+        "name":"Niti"
+    },
+    {
+        "id":"tehnologijaIzrade",
+        "name":"Tehnologija izrade"
+    },
+    {
+        "id":"tdp",
+        "name":"TDP"
+    },
+    {
+        "id":"radnaFrekvencija",
+        "name":"Radna frekvencija"
+    },
+    {
+        "id":"turboFrekvencija",
+        "name":"Turbo frekvencija"
+    },
+    {
+        "id":"l2KesMemorija",
+        "name":"L2 Keš memorija"
+    },
+    {
+        "id":"l3KesMemorija",
+        "name":"L3 Keš memorija"
+    },
+    {
+        "id":"integrisaniGpu",
+        "name":"Integrisana grafička kartica"
+    },
+    {
+        "id":"proizvodjacCipa",
+        "name":"Proizvođač čipa"
+    },
+    {
+        "id":"gpu",
+        "name":"GPU"
+    },
+    {
+        "id":"magistralaMemorije",
+        "name":"Magistrala memorije"
+    },
+    {
+        "id":"kolicinaMemorije",
+        "name":"Količina memorije"
+    },
+    {
+        "id":"tipMemorije",
+        "name":"Tip memorije"
+    },
+    {
+        "id":"interfejs",
+        "name":"Interfejs"
+    },
+    {
+        "id":"brzinaMemorije",
+        "name":"Brzina memorije"
+    },
+    {
+        "id":"brzinaGpu",
+        "name":"Brzina grafičke kartice"
+    },
+    {
+        "id":"hladjenje",
+        "name":"Hlađenje"
+    },
+    {
+        "id":"dvi",
+        "name":"DVI"
+    },
+    {
+        "id":"vga",
+        "name":"VGA"
+    },
+    {
+        "id":"hdmi",
+        "name":"HDMI"
+    },
+    {
+        "id":"dimenzije",
+        "name":"Dimenzije"
+    },
+    {
+        "id":"debljina",
+        "name":"Debljina"
+    },
+    {
+        "id":"masa",
+        "name":"Masa"
+    },
+    {
+        "id":"kapacitet",
+        "name":"Kapacitet"
+    },
+    {
+        "id":"maksimalnaFrekvencija",
+        "name":"Maksimalna frekvencija"
+    },
+    {
+        "id":"tipRam",
+        "name":"Vrsta RAM"
+    },
+    {
+        "id":"voltaza",
+        "name":"Voltaža"
+    },
+    {
+        "id":"latencija",
+        "name":"Latencija"
+    },
+    {
+        "id":"izlaznaSnaga",
+        "name":"Izlazna snaga"
+    },
+    {
+        "id":"tipNapajanja",
+        "name":"Tip napajanja"
+    },
+    {
+        "id":"oblikNapajanja",
+        "name":"Oblik napajanja"
+    },
+    {
+        "id":"standardNapajanja",
+        "name":"Standard napajanja"
+    },
+    {
+        "id":"efikasnost",
+        "name":"Efikasnost"
+    },
+    {
+        "id":"pciPin",
+        "name":"PCI pin"
+    },
+    {
+        "id":"sataPin",
+        "name":"SATA pin"
+    },
+    {
+        "id":"dvadesetPin",
+        "name":"20+4 pin"
+    },
+    {
+        "id":"epsPin",
+        "name":"EPS pin"
+    },
+    {
+        "id":"pfc",
+        "name":"PFC"
+    },
+    {
+        "id":"ovp",
+        "name":"OVP"
+    },
+    {
+        "id":"opp",
+        "name":"OPP"
+    },
+    {
+        "id":"scp",
+        "name":"SCP"
+    },
+    {
+        "id":"precnikVentilatora",
+        "name":"Prečnik ventilatora"
+    },
+    {
+        "id":"formatPloce",
+        "name":"Format ploče"
+    },
+    {
+        "id":"podrzaniProcesori",
+        "name":"Podržani procesori"
+    },
+    {
+        "id":"podrzanaMemorija",
+        "name":"Podržana memorija"
+    },
+    {
+        "id":"memorijaPloce",
+        "name":"Memorija ploče"
+    },
+    {
+        "id":"mreznaKarta",
+        "name":"Mrežna kartica"
+    },
+    {
+        "id":"zvucnaKarta",
+        "name":"Zvučna kartica"
+    },
+    {
+        "id":"podnozjePloce",
+        "name":"Podnožje ploče"
+    },
+    {
+        "id":"cipset",
+        "name":"Čipset"
+    },
+    {
+        "id":"skladiste",
+        "name":"Skladište"
+    },
+    {
+        "id":"slotoviZaProsirenje",
+        "name":"Slotovi za proširenje"
+    },
+    {
+        "id":"kapacitetDiska",
+        "name":"Kapacitet diska"
+    },
+    {
+        "id":"formatDiska",
+        "name":"Format diska"
+    },
+    {
+        "id":"brzinaCitanja",
+        "name":"Brzina čitanja"
+    },
+    {
+        "id":"brzinaPisanja",
+        "name":"Brzina pisanja"
+    },
+    {
+        "id":"nandFlashMemorija",
+        "name":"NAND Flash memorija"
+    },
+    {
+        "id":"kontroler",
+        "name":"Kontroler"
+    },
+    {
+        "id":"brojObrtaja",
+        "name":"RPM"
+    },
+    {
+        "id":"bufferDiska",
+        "name":"Bafer diska"
+    },
+    {
+        "id":"konekcijaDiska",
+        "name":"Konekcija diska"
+    },
+    {
+        "id":"tipHdd",
+        "name":"Tip Hard diska"
+    },
+    {
+        "id":"tipKucista",
+        "name":"Tip kućišta"
+    },
+    {
+        "id":"kompatabilnostKucista",
+        "name":"Kompatabilnost kućišta"
+    },
+    {
+        "id":"hladjenjeKucista",
+        "name":"Hlađenje kućišta"
+    },
+    {
+        "id":"leziste525",
+        "name":"Ležište 525"
+    },
+    {
+        "id":"leziste35",
+        "name":"Ležište 35"
+    },
+    {
+        "id":"leziste25",
+        "name":"Ležište 25"
+    },
+    {
+        "id":"maxDuzinaGpu",
+        "name":"Maksimalna dužina GPU"
+    },
+    {
+        "id":"maxVisinaCpu",
+        "name":"Maksimalna visina GPU"
+    },
+    {
+        "id":"boja",
+        "name":"Boja"
+    }
+]

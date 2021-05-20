@@ -1,0 +1,41 @@
+{
+  "name": "rebuiltwebcommercialstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urospetrovic34/rebuiltWebStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urospetrovic34/rebuiltWebStore/issues"
+  },
+  "homepage": "https://github.com/urospetrovic34/rebuiltWebStore#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.3",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.25.1",
+    "concurrently": "^6.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "firebase": "^8.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "multer": "^1.4.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
